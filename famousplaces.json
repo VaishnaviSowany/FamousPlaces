@@ -1,17 +1,17 @@
 {
-   "user1" : {
+   "FamousPl1" : {
       "name" : "Rockefeller centre",
 	  "place" : "New York City, USA",
 	  "address" : "Rockefeller Plaza, New York",
 	  "id": 1
    },
-   "user2" : {
+   "FamousPl2" : {
       "name" : "Taj Mahal",
 	  "place" : "Agra, India",
 	  "address" : "TajGanj, Agra, UP",
 	  "id": 2
    },
-   "user3" : {
+   "FamousPl3" : {
       "name" : "Golden Gate Bridge",
 	  "place" : "San Francisco, USA",
 	  "address" : "El Camino, San Francisco",
