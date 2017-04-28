@@ -1,20 +1,20 @@
 {
    "user1" : {
-      "name" : "mahesh",
-	  "password" : "password1",
-	  "profession" : "teacher",
+      "name" : "Rockefeller centre",
+	  "place" : "New York City, USA",
+	  "address" : "Rockefeller Plaza, New York",
 	  "id": 1
    },
    "user2" : {
-      "name" : "suresh",
-	  "password" : "password2",
-	  "profession" : "librarian",
+      "name" : "Taj Mahal",
+	  "place" : "Agra, India",
+	  "address" : "TajGanj, Agra, UP",
 	  "id": 2
    },
    "user3" : {
-      "name" : "ramesh",
-	  "password" : "password3",
-	  "profession" : "clerk",
+      "name" : "Golden Gate Bridge",
+	  "place" : "San Francisco, USA",
+	  "address" : "El Camino, San Francisco",
 	  "id": 3
    }
 }
