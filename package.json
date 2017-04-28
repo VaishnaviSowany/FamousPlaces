@@ -2,7 +2,7 @@
  "name": "Users",
  "version": "1.0.0",
  "description": "RESTful Web Service Implementation using Docker container",
- "author": "Vaishnavi Sowany","Aparna More",
+ "author": "Vaishnavi Sowany",
  "main": "server.js",
  "scripts": {
  "start": "node server.js"
