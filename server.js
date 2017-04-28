@@ -2,8 +2,8 @@ var express = require('express');
 var app = express();
 var fs = require("fs");
 
-app.get('/listusers', function (req, res) {
-   fs.readFile( __dirname + "/" + "users.json", 'utf8', function (err, data) {
+app.get('/listfamousplaces', function (req, res) {
+   fs.readFile( __dirname + "/" + "famousplaces.json", 'utf8', function (err, data) {
        console.log( data );
        res.end( data );
    });
@@ -11,7 +11,7 @@ app.get('/listusers', function (req, res) {
 
 app.get('/:id', function (req, res) {
    // First read existing users.
-   fs.readFile( __dirname + "/" + "users.json", 'utf8', function (err, data) {
+   fs.readFile( __dirname + "/" + "famousplaces.json", 'utf8', function (err, data) {
        users = JSON.parse( data );
        var user = users["user" + req.params.id] 
        console.log( user );
