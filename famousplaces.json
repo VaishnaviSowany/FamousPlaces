@@ -16,5 +16,11 @@
 	  "place" : "San Francisco, USA",
 	  "address" : "El Camino, San Francisco",
 	  "id": 3
-   }
+   },
+    "famousplace4" : {
+      "name" : "Eiffel Tower",
+	  "place" : "Paris, France",
+	  "address" : "Camp de Mars, Paris",
+	  "id": 4
+    }
 }
